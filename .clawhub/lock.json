@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-coding-assistant": {
+      "version": "1.0.0",
+      "installedAt": 1774647256820
+    },
+    "openclaw-agent-browser": {
+      "version": "1.0.0",
+      "installedAt": 1774647520150
+    }
+  }
+}
